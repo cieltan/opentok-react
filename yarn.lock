@@ -3219,6 +3219,17 @@ onetime@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
 
+opentok-react@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/opentok-react/-/opentok-react-0.9.0.tgz#3059268bc48fba78eddd9d2bfdaac901fa588a12"
+  integrity sha512-qFtnr3zqiqwqG7LqeMkPQashgyCexbQrBytEgmfHuUvhRi8k9I8YLJUXqfSZQtsQ6kYBQg7XaZfJqlAbM1OQcg==
+  dependencies:
+    lodash "^4.13.1"
+    prop-types "^15.5.10"
+    react-display-name "^0.2.0"
+    scriptjs "^2.5.8"
+    uuid "^3.0.1"
+
 opentok-test-scripts@^3.2.1:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/opentok-test-scripts/-/opentok-test-scripts-3.9.0.tgz#310e7f41c423c9d151aedcd4451646099e3e04e7"
